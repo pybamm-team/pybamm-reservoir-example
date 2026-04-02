@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "pybamm_version": "0.1.dev15723+g7c80a39.d20250811",
   "model": {
     "name": "Doyle-Fuller-Newman model",
